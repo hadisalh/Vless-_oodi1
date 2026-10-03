@@ -1,0 +1,12 @@
+{
+  "name": "render-vless-server",
+  "version": "1.0.0",
+  "description": "Stable VLESS Server for Render",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
